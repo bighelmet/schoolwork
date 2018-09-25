@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\build\\intermediates\\res\\merged\\debug\\anim_dialog_enter.xml.flat",
+        "source": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog.xml.flat",
+        "source": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bt_style.xml.flat",
+        "source": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\src\\main\\res\\drawable-hdpi\\bt_style.xml"
+    },
+    {
+        "merged": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\build\\intermediates\\res\\merged\\debug\\anim_dialog_exit.xml.flat",
+        "source": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

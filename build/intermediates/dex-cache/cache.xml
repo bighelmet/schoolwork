@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\File\work\schoolwork\navigation\qiyaji4\app\libs\Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5915e2438818e42a766435dfbe627c88cc051b3c">
+        <dex dex="D:\File\work\schoolwork\navigation\qiyaji4\app\build\intermediates\pre-dexed\debug\Msc_aea46fc5aad6fec6417fc434e15a2142fa212437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\File\work\schoolwork\navigation\qiyaji4\app\libs\Sunflower.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8f70fed02b42eb18d2a67bdcf9470ec2d760bf1d">
+        <dex dex="D:\File\work\schoolwork\navigation\qiyaji4\app\build\intermediates\pre-dexed\debug\Sunflower_d290e9617711fe13ac41bf61224fe9a05ea871d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ying\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\File\work\schoolwork\navigation\qiyaji4\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_2c014eb0ded37a72385b4f54d62d314608a6d08e.jar" />
+    </item>
+
+</items>

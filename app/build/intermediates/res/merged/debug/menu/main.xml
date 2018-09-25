@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+	   <item
+	        android:id="@+id/on"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	        android:title="开始"/>
+	   <item
+	        android:id="@+id/off"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	        android:title="结束"/>
+	   <item
+	        android:id="@+id/Calibrate"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	        android:title="校正"/>
+	   <item
+	        android:id="@+id/default_setting"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	        android:title="重置"/>
+</menu>

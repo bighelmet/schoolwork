@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Mon Sep 24 17:23:38 CST 2018
+2.base=D\:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\build\\intermediates\\assets\\debug
+0.path=bd_etts_common_speech_yyjw_mand_eng_high_am-mix_v3.0.0_20170512.dat
+2.baseType=DIRECTORY
+3.base=D\:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.path=bd_etts_text.dat
+4.base=D\:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\build\\intermediates\\assets\\debug
+count=5
+2.path=bd_etts_common_speech_f7_mand_eng_high_am-mix_v3.0.0_20170512.dat
+4.set=ASSET
+3.path=bd_etts_common_speech_as_mand_eng_high_am_v3.0.0_20170516.dat
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=bd_etts_common_speech_m15_mand_eng_high_am-mix_v3.0.0_20170505.dat
+1.baseType=DIRECTORY
+0.base=D\:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=D\:\\File\\work\\schoolwork\\navigation\\qiyaji4\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET
